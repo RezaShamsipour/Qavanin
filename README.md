@@ -19,6 +19,8 @@ First, install the required packages:
 
 **3. Configure Pinecone**
 We use Pinecone as our database. You need to create an account on the [PINECONE Website](https://pinecone.io)
+
+* default API_KEY in source doesnt work. must be change.
 ```bash
   #app/services/pinecone_service.py
 
